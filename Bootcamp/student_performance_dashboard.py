@@ -9,7 +9,7 @@ def calculate_grade(percentage):
     elif percentage >= 60:
         return "D"
     else:
-        return "F"
+        return "E"
 
 def main():
     print("=== STUDENT PERFORMANCE DASHBOARD INPUT ===")
